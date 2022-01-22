@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:blue;
+}
+
+header img {
+    margin: 5px;
+}
+
+header a {
+    color: cornsilk;
+}
+
+h1 {
+    text-align: center;
+    color: teal;
+    background-color: violet;
+}
+
+footer {
+    color: lightpink;
+    background-color: lightsalmon;
+    padding: 5px;
+}
+
+nav {
+    margin: 20px;
+    padding: 10px;
+    border:3px solid lightgreen;
+    border-radius: 10px;
+}
+
+nav a {
+    margin: 60px;
+    font-size: 20px;
+    text-decoration: limegreen;
+    color: rgb(108, 226, 255)
+}
+ p img {
+     background-color:darkorchid;
+     font-size: 5px;
+     border-radius: 10px;
+     margin: 5px;
+ }
+
+ img {
+     background-color: rgb(206, 109, 255);
+     border-radius: 10px;
+ }
+
+ h2 {
+     color: chocolate;
+ }
